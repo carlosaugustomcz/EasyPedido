@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/11/16 11:08:17.000.563,=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/16 12:50:48.000.217,=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/19 15:32:32.000.701,=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/15 20:19:10.161,=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/15 20:19:42.158,D:\EasyPedido\FontesVCL\UnitLogin.dfm=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/07/15 20:19:42.158,D:\EasyPedido\FontesVCL\UnitLogin.pas=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/15 20:19:47.976,D:\EasyPedido\FontesVCL\EasyPedido.dproj=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/07/15 20:31:46.134,=D:\EasyPedido\FontesVCL\Unit1.pas</Transaction>
+    <Transaction>2024/07/15 20:31:52.859,D:\EasyPedido\FontesVCL\UnitPrincipal.dfm=D:\EasyPedido\FontesVCL\Unit1.dfm</Transaction>
+    <Transaction>2024/07/15 20:31:52.859,D:\EasyPedido\FontesVCL\UnitPrincipal.pas=D:\EasyPedido\FontesVCL\Unit1.pas</Transaction>
+    <Transaction>2024/07/15 20:34:22.132,=D:\EasyPedido\FontesVCL\Utils\Vcl.Loading.pas</Transaction>
+    <Transaction>2024/07/15 20:41:48.640,=D:\EasyPedido\FontesVCL\Unit1.pas</Transaction>
+    <Transaction>2024/07/15 20:41:59.440,D:\EasyPedido\FontesVCL\Utils\Vcl.Session.pas=D:\EasyPedido\FontesVCL\Unit1.pas</Transaction>
+    <Transaction>2024/07/15 21:30:29.381,=D:\EasyPedido\FontesVCL\Utils\Vcl.Navigation.pas</Transaction>
+    <Transaction>2024/07/15 21:33:08.787,=D:\EasyPedido\FontesVCL\Unit1.pas</Transaction>
+    <Transaction>2024/07/15 21:33:15.954,D:\EasyPedido\FontesVCL\UnitPedido.pas=D:\EasyPedido\FontesVCL\Unit1.pas</Transaction>
+    <Transaction>2024/07/15 21:33:15.954,D:\EasyPedido\FontesVCL\UnitPedido.dfm=D:\EasyPedido\FontesVCL\Unit1.dfm</Transaction>
+    <Transaction>2024/07/15 21:47:51.649,=D:\EasyPedido\FontesVCL\Unit1.pas</Transaction>
+    <Transaction>2024/07/15 21:47:58.808,D:\EasyPedido\FontesVCL\UnitCliente.dfm=D:\EasyPedido\FontesVCL\Unit1.dfm</Transaction>
+    <Transaction>2024/07/15 21:47:58.808,D:\EasyPedido\FontesVCL\UnitCliente.pas=D:\EasyPedido\FontesVCL\Unit1.pas</Transaction>
+    <Transaction>2024/07/15 21:58:14.349,=D:\EasyPedido\FontesVCL\Unit1.pas</Transaction>
+    <Transaction>2024/07/15 21:58:34.260,D:\EasyPedido\FontesVCL\UnitClienteCad.pas=D:\EasyPedido\FontesVCL\Unit1.pas</Transaction>
+    <Transaction>2024/07/15 21:58:34.260,D:\EasyPedido\FontesVCL\UnitClienteCad.dfm=D:\EasyPedido\FontesVCL\Unit1.dfm</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PMacMini iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
