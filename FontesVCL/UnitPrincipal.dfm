@@ -424,10 +424,6 @@ object FrmPrincipal: TFrmPrincipal
     Color = 16051947
     ParentBackground = False
     TabOrder = 2
-    ExplicitLeft = 392
-    ExplicitTop = 264
-    ExplicitWidth = 185
-    ExplicitHeight = 41
     object pNavbar: TPanel
       Left = 1
       Top = 1
@@ -438,7 +434,6 @@ object FrmPrincipal: TFrmPrincipal
       Color = 15458266
       ParentBackground = False
       TabOrder = 0
-      ExplicitWidth = 883
       object Image2: TImage
         Left = 666
         Top = 0
@@ -626,7 +621,6 @@ object FrmPrincipal: TFrmPrincipal
         Color = 15458266
         ParentBackground = False
         TabOrder = 0
-        ExplicitLeft = 713
         object lblNome: TLabel
           Left = 0
           Top = 0
@@ -678,10 +672,6 @@ object FrmPrincipal: TFrmPrincipal
       Color = 16051947
       ParentBackground = False
       TabOrder = 1
-      ExplicitLeft = 224
-      ExplicitTop = 232
-      ExplicitWidth = 185
-      ExplicitHeight = 41
     end
   end
   object ImageList: TImageList
